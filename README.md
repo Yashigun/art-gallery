@@ -1,6 +1,6 @@
 <h1>The DayDream Pages</h1>
-*A digital sanctuary where imagination meets expression.*
-**The DayDream Pages** is my personal art portfolio website where I showcase my creative works — including illustrations, sketches, and visual storytelling pieces. This space reflects my artistic journey, thoughts, and evolving style.
+<p></p>A digital sanctuary where imagination meets expression.</p>
+<p><emphise>The DayDream Pages</emphise> is my personal art portfolio website where I showcase my creative works — including illustrations, sketches, and visual storytelling pieces. This space reflects my artistic journey, thoughts, and evolving style.</p>
 
 ---
 ## Features:
